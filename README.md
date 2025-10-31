@@ -8,7 +8,8 @@ Prompts for Chatgpt, Gemini  to create a E-book
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="[ebookfinance.pdf](https://github.com/user-attachments/files/23269297/ebookfinance.pdf)"
+title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -19,8 +20,8 @@ seguem abaixo.
 ## 🧠 Prompts
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                    |
+|   Ação   | prompt                                                                                                                                                                                                                                                                                                                                               |
+| :------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |                                            
 | conteúdo | Atue como um escritor e me ajude a escrever um livro guia de finanças para jovens mulheres. Faça um texto para ebook , com foco em finanças e investimento, listando os principais fatores uteis para a organizaçao financeira e tematicas como a taxa rosa. Explique sempre de uma maneira simples Sempre deixe um título sugestivo por tópico |
 
 
@@ -33,4 +34,4 @@ Gemini：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Gemini
