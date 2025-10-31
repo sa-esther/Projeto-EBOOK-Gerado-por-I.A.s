@@ -8,13 +8,13 @@ Prompts for Chatgpt, Gemini  to create a E-book
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="[ebookfinance.pdf](https://github.com/user-attachments/files/23269297/ebookfinance.pdf)"
+<a href="https://github.com/sa-esther/Projeto-EBOOK-Gerado-por-I.A.s/blob/main/ebookfinance.pdf"
 title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Gemini]([https://gemini.google.com/app?hl=pt-BR])
+- [Gemini](https://gemini.google.com/app?hl=pt-BR)
 - [Canva](https://www.canva.com)
 
 ## 🧠 Prompts
